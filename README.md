@@ -44,41 +44,7 @@ TensorFlow • Scikit-Learn • Pandas • NumPy • Matplotlib
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"
-/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"
-/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
 
 ## 🚀 Featured Projects
 
@@ -115,11 +81,11 @@ AI application capable of answering questions based on uploaded images.
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/karthikmitikiri">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:karthikmitikiri@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
