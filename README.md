@@ -88,8 +88,12 @@ AI application capable of answering questions based on uploaded images.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:karthikmitikiri@gmail.com">
+<a href="mailto:mitikirikarthik@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://discord.com/users/1281138637534134334" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
 
 </p>
